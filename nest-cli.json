@@ -1,0 +1,13 @@
+{
+  "language": "ts",
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "src",
+  "compilerOptions": {
+    "assets": [
+      "**/*.html",
+      "**/*.otf",
+      "i18n/**/*",
+      "**/*.json"
+    ]
+  }
+}
